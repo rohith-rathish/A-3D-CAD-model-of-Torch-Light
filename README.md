@@ -13,6 +13,11 @@ A detailed 3D CAD model of a portable torch light created as a product design pr
 ### Perspective View
 ![Perspective View](./Perspective_view.jpg)
 
+
+## Downloads
+
+[Download CAD Files from Releases](../../releases)
+
 ## Features
 
 - Realistic torch light body design  
